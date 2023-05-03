@@ -1,0 +1,22 @@
+*{
+    font-family: "Helvetica Neue",Helvetica,Arial;
+
+}
+
+li a{
+    font-size: 14px;
+    font-weight: italic;
+}
+
+.Homepage{
+    background-color: lightgreen;
+}
+.Homesec{
+    background:skyblue;
+}
+
+.Homesec.Title{
+    background:lightseagreen;
+    font-weight: bold;
+    font-size: 32px;
+}
