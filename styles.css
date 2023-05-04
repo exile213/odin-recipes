@@ -8,6 +8,20 @@ li a{
     font-weight: italic;
 }
 
+h3{
+    text-align: center;
+    background:lightsalmon;
+    
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width:300px;
+    height:auto;
+}
+
+
 .Homepage{
     background-color: lightgreen;
 }
@@ -22,6 +36,18 @@ li a{
     text-align: center;
 }
 
-.Cheesepage{
+.Recipepage{
    background-color: darkorange;
+}
+.Recipesec{
+    background-color:lightcoral;
+    margin:20px;
+    padding:20px;
+}
+
+.Recipesec.Title{
+    background:lightpink;
+    font-weight: bold;
+    font-size:32px;
+    text-align: center;
 }
