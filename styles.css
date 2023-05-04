@@ -4,14 +4,14 @@
 }
 
 li a{
-    font-size: 14px;
+    font-size: 20px;
     font-weight: italic;
 }
 
 h3{
     text-align: center;
     background:lightsalmon;
-    
+
 }
 
 img {
@@ -27,6 +27,8 @@ img {
 }
 .Homesec{
     background:skyblue;
+    padding:20px;
+    margin:20px;
 }
 
 .Homesec.Title{
